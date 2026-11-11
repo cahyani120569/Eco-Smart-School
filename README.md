@@ -1,2 +1,9 @@
 # Eco-Smart-School
-tugas project S2 Pradita Pemilahan sampah pintar
+
+**tujuan** :memenuhi tugas project S2 Pradita Pemilahan sampah pintar
+
+**anggota kelompok**: 
+1. Candra Wahyudi (2620101039)
+2. Fatimah Kasyful Anwar (2620101021)
+3. Tjahjani Praptiandari (2620101027)
+4. Tika Pransiska Cahaya Putri (2620101020)
