@@ -1,6 +1,6 @@
 # Eco-Smart-School
 
-**Tujuan** :Memenuhi tugas project S2 Pradita Waste Station
+**Tujuan** : Memenuhi tugas project S2 Pradita Waste Station
 
 **Anggota kelompok**: 
 1. Candra Wahyudi (2620101039)
