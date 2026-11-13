@@ -2,7 +2,7 @@
 
 **Tujuan** :Memenuhi tugas project S2 Pradita Waste Station
 
-**anggota kelompok**: 
+**Anggota kelompok**: 
 1. Candra Wahyudi (2620101039)
 2. Fatimah Kasyful Anwar (2620101021)
 3. Tjahjani Praptiandari (2620101027)
